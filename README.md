@@ -1,2 +1,3 @@
 # Simple-Hex-Color-Generator
-Simple Hex Color Generator Using Html-CSS-JS Template Two
+ Template Two Simple Hex Color Generator Using Html-CSS-JS
+### Html & Css & js
